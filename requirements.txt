@@ -13,3 +13,4 @@ ipython-genutils
 tensorflow
 shortuuid
 gunicorn
+scikit-learn
