@@ -1,0 +1,16 @@
+flask
+ipython
+keras
+Keras-Preprocessing
+matplotlib
+numpy
+opencv-python
+pandas
+pymongo
+Pillow
+ipython
+ipython-genutils
+tensorflow
+shortuuid
+gunicorn
+scikit-learn
